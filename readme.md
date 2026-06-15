@@ -2,6 +2,8 @@
 
 Image_classification_ai is a deep learning-based image classification web application built using PyTorch, EfficientNet-B0, and Streamlit. The model is fine-tuned on the Animals-10 dataset and can classify uploaded animal images into 10 different categories with high accuracy.
 
+🌐 Live Demo: https://imageclassificationai-hwwzxjvpoctzojchc3pj7g.streamlit.app/
+
 ## 🚀 Features
 
 * Upload an animal image
